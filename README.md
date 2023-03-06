@@ -21,11 +21,11 @@ The dataset/references\_and\_licenses.txt file contains a list of all the refere
 
 If you use this work please cite:
 ```
-@article{ruiz2022dreambooth,
+@inproceedings{ruiz2022dreambooth,
   title={Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation},
   author={Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir},
-  journal={arXiv preprint arXiv:2208.12242},
-  year={2022}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2023}
 }
 ```
 
