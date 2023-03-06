@@ -17,8 +17,6 @@ The images have either been captured by the paper authors, or sourced from www.u
 
 The dataset/references\_and\_licenses.txt file contains a list of all the reference links to the images in www.unsplash.com - and attribution to the photographer, along with the license of the image.
 
-```
-
 ## Academic Citation
 
 If you use this work please cite:
