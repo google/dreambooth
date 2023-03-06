@@ -1,4 +1,5 @@
-# DreamBooth Dataset - DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
+# DreamBooth Dataset
+## DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
 
 ![teaser](docs/teaser_static.jpg)
 
